@@ -11,24 +11,21 @@ Running the Analysis
 Testing
 
 ## Directory Structure
-
 pokemon-analysis/
 │
 ├── data/
-│   pokemon.csv
+│   └── pokemon.csv
 │
 ├── config/
-│   settings.py
+│   └── settings.py
 │
 ├── tests/
-│   __init__.py
-│   test_analysis.py
+│   ├── __init__.py
+│   └── test_analysis.py
 │
 ├── analysis.py
 │
 └── requirements.txt
-
-
 ## Requirements
 
 Python 3.7+
